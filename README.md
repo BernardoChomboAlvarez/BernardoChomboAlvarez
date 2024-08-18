@@ -3,7 +3,11 @@ I'm a 3rd Year [BSc Genomic Sciences](https://www.lcg.unam.mx/) student (LCG) at
 the [Center of Genomic Sciences](https://www.ccg.unam.mx/en/) (CCG)/[Institute
 of Biotechnology](https://www.ibt.unam.mx/en/) (IBt) from the [National
 Autonomous University of Mexico](https://www.unam.mx/) (UNAM). I
-have a strong background in bioinformatics, computational biology and programming and I use that knowledge to solve biological questions using *in silico* approaches. For more information about my studies and my experience, please visit [![githubio](https://img.shields.io/badge/BernardoChomboAlvarez.io-black?logo=Github&link=https%3A%2F%2Fbernardochomboalvarez.github.io%2F)](https://bernardochomboalvarez.github.io/)
+have a strong background in bioinformatics, computational biology and
+programming, by consequence I use that knowledge to solve biological questions using *in
+silico* approaches. For more information about my studies and my experience,
+please visit
+[![githubio](https://img.shields.io/badge/BernardoChomboAlvarez.io-black?logo=Github&link=https%3A%2F%2Fbernardochomboalvarez.github.io%2F)](https://bernardochomboalvarez.github.io/)
 - :white_check_mark: Experience in: scRNAseq/RNAseq/ChIPseq/ATACseq analysis, genome
   assembly and annotation, motif enrichment, comparisons of proteins 3D
   structure, analisis all types of genomic sequences.
