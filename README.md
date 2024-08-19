@@ -9,8 +9,8 @@ silico* approaches. For more information about my studies and my experience,
 please visit
 [![githubio](https://img.shields.io/badge/BernardoChomboAlvarez.io-black?logo=Github&link=https%3A%2F%2Fbernardochomboalvarez.github.io%2F)](https://bernardochomboalvarez.github.io/)
 - :white_check_mark: Experience in: scRNAseq/RNAseq/ChIPseq/ATACseq analysis, genome
-  assembly and annotation, motif enrichment, comparisons of proteins 3D
-  structure, analisis all types of genomic sequences.
+  assembly and annotation, motif enrichment, comparison of protein's 3D
+  structure, analisis of all types of genomic sequences, omics overall.
 - :bangbang: Interested in neurodegenerative genomics, disease-associated gene
   regulation, neural networks, machine learning approaches to solve biological
   problems, regeneration and stem cells. 
